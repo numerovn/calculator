@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
 body{
   background-color: #be9c8b;
-    background-image: url(img/BG2.jpg); 
+    background-image: url(img/bgnew.jpg); 
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    backdrop-filter: blur(5px); 
-   -webkit-backdrop-filter: blur(5px);
     font-family: 'Oswald', sans-serif;
 }
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&display=swap');
